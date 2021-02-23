@@ -20,7 +20,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 
 <br/>
 <br/> E se você é recrutador...
-<br/>![](https://giant.gfycat.com/ColossalWeepyAtlanticblackgoby.webm)
+<br/>![](https://gfycat.com/colossalweepyatlanticblackgoby)
 
 - 🌱 I’m currently learning ...
 
