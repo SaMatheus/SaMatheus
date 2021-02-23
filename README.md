@@ -11,7 +11,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
 <br/> :email: &nbsp; Entre em contato comigo:
 
-<br/>&nbsp; <a href="https://www.linkedin.com/in/matheus-f-4a5732b4/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/>&nbsp;<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheus-f-4a5732b4/"/>
 <br/>&nbsp;  
 <br/>&nbsp; <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <br/>&nbsp; +55 11 98537-4474
