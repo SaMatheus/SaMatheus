@@ -20,7 +20,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 
 <br/>
 <br/> E se você é recrutador...
-<br/>![callme](https://user-images.githubusercontent.com/38141771/108897112-82b06380-75f4-11eb-874d-b85a71be9a1b.gif)
+<br/>![callme](https://github.com/SaMatheus/gif-callme/blob/master/callme.gif)
 
 - 🌱 I’m currently learning ...
 
