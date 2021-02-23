@@ -21,7 +21,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 
 <br/>
 <br/> E se você é recrutador...
-<br/><img alt="callme" src="https://gfycat.com/discover/call-me-gifs"/>
+<br/>![Alt Text](https://gfycat.com/discover/call-me-gifs)
 
 
 
