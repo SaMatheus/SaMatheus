@@ -16,7 +16,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 <br/>&nbsp;<a href="mailto:matheus.sa.alves@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
 <br/>
-<br/> :musical_note: &nbsp; Veja as musicas que eu curto: <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> https://open.spotify.com/user/matheus.sa.alves
+<br/> :musical_note: &nbsp; Veja as musicas que eu curto: <a href=" https://open.spotify.com/user/matheus.sa.alves"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> </a>
 
 
 
