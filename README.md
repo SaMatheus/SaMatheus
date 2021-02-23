@@ -21,7 +21,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 
 <br/>
 <br/> E se você é recrutador...
-<br/><img alt="callme" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FColossalWeepyAtlanticblackgoby-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fcall-me-gifs&tbnid=4mjF2_uwBz_aPM&vet=12ahUKEwj4v9DO24DvAhU5NbkGHfsqDfIQMygHegUIARDYAQ..i&docid=PBDjitB8pU6rqM&w=338&h=320&q=gif%20callme&ved=2ahUKEwj4v9DO24DvAhU5NbkGHfsqDfIQMygHegUIARDYAQ"/>
+<br/><img alt="callme" src="https://gfycat.com/discover/call-me-gifs"/>
 
 
 
