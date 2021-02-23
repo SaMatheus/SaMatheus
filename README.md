@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/SaMatheus/Logo/blob/master/logomarca.png">
 
-<!--
-**SaMatheus/SaMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matheus Sá
 
-Here are some ideas to get you started:
+## 👋 Hy Guys
+Sou um dev front-end extremamente apaixonado pelo que faço. 
+Resolver problemas com tecnologia é tão compativel comigo que acredito que está escrito no meu DNA.
+Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #neverstoplearning
 
-- 🔭 I’m currently working on ...
+<br/> :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas
+<br/> :computer: &nbsp; Minha stack: HTML, CSS, MySql, ReactJS, Next.js, JavaScript & Typescript
+<br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/matheus-f-4a5732b4/)
+<br/> :iphone: &nbsp; Pode ser pelo whats também: (11) 9 8537-4474
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
