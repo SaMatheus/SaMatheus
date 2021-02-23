@@ -12,7 +12,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 <br/> :email: &nbsp; Entre em contato comigo:
 
 <br/>&nbsp;<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp; https://www.linkedin.com/in/matheus-f-4a5732b4/
-<br/>&nbsp; <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> &nbsp; +55 11 98537-4474
+<br/>&nbsp;<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> &nbsp; +55 11 98537-4474
 <br/>&nbsp;  
 <br/> :musical_note: &nbsp; Veja as musicas que eu curto: <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> https://open.spotify.com/user/matheus.sa.alves
 
