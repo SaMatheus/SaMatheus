@@ -19,6 +19,11 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 <br/> :musical_note: &nbsp; Veja as musicas que eu curto: <a href=" https://open.spotify.com/user/matheus.sa.alves"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> </a>
 
 
+<br/>
+<br/> E se você é recrutador...
+<br/><img alt="callme" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FColossalWeepyAtlanticblackgoby-size_restricted.gif&imgrefurl=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fcall-me-gifs&tbnid=4mjF2_uwBz_aPM&vet=12ahUKEwj4v9DO24DvAhU5NbkGHfsqDfIQMygHegUIARDYAQ..i&docid=PBDjitB8pU6rqM&w=338&h=320&q=gif%20callme&ved=2ahUKEwj4v9DO24DvAhU5NbkGHfsqDfIQMygHegUIARDYAQ"/>
+
+
 
 - 🌱 I’m currently learning ...
 
