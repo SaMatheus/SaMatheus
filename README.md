@@ -16,7 +16,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 <br/> :musical_note: &nbsp; Veja as musicas que eu curto: <a href=" https://open.spotify.com/user/matheus.sa.alves"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> </a>
 
 <br/> E se você é recrutador...
-<br/>![callme](![callme](https://user-images.githubusercontent.com/38141771/108897112-82b06380-75f4-11eb-874d-b85a71be9a1b.gif))
+<br/>![callme](https://user-images.githubusercontent.com/38141771/108897112-82b06380-75f4-11eb-874d-b85a71be9a1b.gif)
 
 - 🌱 I’m currently learning ...
 
