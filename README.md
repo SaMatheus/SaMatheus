@@ -7,6 +7,27 @@ Sou um dev front-end extremamente apaixonado pelo que faço.
 Resolver problemas com tecnologia é tão compativel comigo que acredito que está escrito no meu DNA.
 Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #neverstoplearning
 
+<br />Descrição:
+<br/>Sempre acreditei na frase "trabalhe com o que você ama e você
+                nunca terá que trabalhar um dia na vida". 
+                <br />
+                Demorou uns anos, mas descobri algo que realmente{' '}
+                <strong>amo</strong> e que me traz <strong>satisfação</strong>.
+                Cada website, cada ecommerce e cada Landing Page é uma nova
+                emoção, um sentimento novo e, claro, é um grande{' '}
+                <strong>aprendizado</strong>.
+                <br />
+                Gosto muito de usar as novas tecnologias e tendências do
+                mercado. Já estudei muito, mas vou continuar fazendo diversos
+                cursos, bootcamp's e MBA's para conhecer mais cada detalhe do
+                mundo Tech e me tornar o <strong>melhor</strong> naquilo que
+                faço.
+                <br />
+                Hoje sou um Programador Frontend e vou me dedicar e me empenhar
+                a cada dia para dar o melhor para os usuários, para{' '}
+                <strong>sua empresa</strong> e para <strong>você</strong>. 
+                
+
 <br/> :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas
 <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
 <br/> :iphone: &nbsp; Entre em contato comigo, apenas clique em alguma das opções:
