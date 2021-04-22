@@ -28,7 +28,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
                 <strong>sua empresa</strong> e para <strong>você</strong>. 
                 
 
-<br/> :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas
+<br/> :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas (ADS)
 <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
 <br/> 🌐 &nbsp; <a href="https://msdev-nine.vercel.app">Acesse meu site</a>
 <br/> :iphone: &nbsp; Entre em contato comigo, apenas clique em alguma das opções:
