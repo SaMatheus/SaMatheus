@@ -35,7 +35,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
 <br/>&nbsp;<a href="https://www.linkedin.com/in/matheus-f-4a5732b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br/>&nbsp;<a href="https://api.whatsapp.com/send?phone=5511985374474&text=Oi%2C%20amei%20seu%20site!"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <br/>&nbsp;<a href="mailto:matheus.sa.alves@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<br/>Veja as musicas que eu curto: <a href=" https://open.spotify.com/user/matheus.sa.alves" style="display: flex, align-items: center;"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> </a>
+<br/>Veja as musicas que eu curto: <a align="center" href=" https://open.spotify.com/user/matheus.sa.alves" style="display: flex, align-items: center;"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> </a>
 
 <br/> E se você é recrutador...
 <br/>![callme](https://user-images.githubusercontent.com/38141771/108897112-82b06380-75f4-11eb-874d-b85a71be9a1b.gif)
