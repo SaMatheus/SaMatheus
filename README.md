@@ -2,7 +2,7 @@
 
 # Matheus Sá
 
-## Hello Bears :bear:
+## Hy Bears :bear:
 Sou um dev front-end extremamente apaixonado pelo que faço. 
 Resolver problemas com tecnologia é tão compativel comigo que acredito que está escrito no meu DNA.
 Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #neverstoplearning
