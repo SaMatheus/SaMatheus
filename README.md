@@ -32,7 +32,7 @@ Sempre acreditei na frase "trabalhe com o que você ama e você
 <h2>Me conheça mais</h2>
  :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas (ADS)
 <br/><br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
-<br/><br/> 🌐 &nbsp; <a href="https://msdev-nine.vercel.app" target:"_blank">Acesse meu site</a>
+<br/><br/> 🌐 &nbsp; [go](https://msdev-nine.vercel.app){:target="_blank" rel="noopener"}
 <br/><br/> :iphone: &nbsp; Entre em contato comigo, apenas clique em alguma das opções:
 <br/><br/>
 <ul>
