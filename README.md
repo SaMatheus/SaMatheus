@@ -9,7 +9,7 @@ Resolver problemas com tecnologia é tão compativel comigo que acredito que est
 Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #neverstoplearning
 
 <br /><h2>Minha motivação:</h2>
-<br/>Sempre acreditei na frase "trabalhe com o que você ama e você
+Sempre acreditei na frase "trabalhe com o que você ama e você
                 nunca terá que trabalhar um dia na vida". 
                 <br />
                 Demorou uns anos, mas descobri algo que realmente
@@ -30,7 +30,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
                 
 <br/>
 <h2>Me conheça mais</h2>
-<br/> :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas (ADS)
+ :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas (ADS)
 <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
 <br/> 🌐 &nbsp; <a href="https://msdev-nine.vercel.app">Acesse meu site</a>
 <br/> :iphone: &nbsp; Entre em contato comigo, apenas clique em alguma das opções:
