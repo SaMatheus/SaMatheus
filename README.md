@@ -7,7 +7,7 @@ Sou um dev front-end extremamente apaixonado pelo que faço.
 Resolver problemas com tecnologia é tão compativel comigo que acredito que está escrito no meu DNA.
 Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #neverstoplearning
 
-<br />Minha motivação:
+<br /><h2>Minha motivação:</h2>
 <br/>Sempre acreditei na frase "trabalhe com o que você ama e você
                 nunca terá que trabalhar um dia na vida". 
                 <br />
