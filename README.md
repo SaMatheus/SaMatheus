@@ -27,7 +27,7 @@ Pretendo me tornar um dos melhores e um referencia no que faço, e pra isso eu #
                 a cada dia para dar o melhor para os usuários, para
                 <strong>sua empresa</strong> e para <strong>você</strong>. 
                 
-
+<br/>
 <h2>Me conheça mais</h2>
 <br/> :mortar_board: &nbsp; Graduação: Análise e Desenvolvimento de Sistemas (ADS)
 <br/> 💬  &nbsp; Sobre mim: Amo tecnologias, games, muitos animes :boom: e séries.
